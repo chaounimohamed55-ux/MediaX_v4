@@ -1,0 +1,16 @@
+{
+  "name": "messenger-anime-bot-v4",
+  "version": "4.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "sqlite3": "^5.1.7",
+    "request": "^2.88.2",
+    "node-cron": "^3.0.3"
+  }
+}
